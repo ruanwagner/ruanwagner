@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **development of the frontend world**
 
-- 💬 Ask me about **html, css, php, javascript**
+- 💬 Ask me about **html, css, php, javascript, react**
 
 - 📫 How to reach me **ruan.wagner@universo.univates.br**
 
